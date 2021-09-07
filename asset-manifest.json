@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/fast-food/static/css/main.14094dea.chunk.css",
-    "main.js": "/fast-food/static/js/main.b7ec933a.chunk.js",
-    "main.js.map": "/fast-food/static/js/main.b7ec933a.chunk.js.map",
+    "main.css": "/fast-food/static/css/main.e7c97642.chunk.css",
+    "main.js": "/fast-food/static/js/main.8f41675b.chunk.js",
+    "main.js.map": "/fast-food/static/js/main.8f41675b.chunk.js.map",
     "runtime-main.js": "/fast-food/static/js/runtime-main.11c1ecd7.js",
     "runtime-main.js.map": "/fast-food/static/js/runtime-main.11c1ecd7.js.map",
     "static/css/2.2804f1c8.chunk.css": "/fast-food/static/css/2.2804f1c8.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.7e8e1786.chunk.js.map": "/fast-food/static/js/2.7e8e1786.chunk.js.map",
     "index.html": "/fast-food/index.html",
     "static/css/2.2804f1c8.chunk.css.map": "/fast-food/static/css/2.2804f1c8.chunk.css.map",
-    "static/css/main.14094dea.chunk.css.map": "/fast-food/static/css/main.14094dea.chunk.css.map",
+    "static/css/main.e7c97642.chunk.css.map": "/fast-food/static/css/main.e7c97642.chunk.css.map",
     "static/js/2.7e8e1786.chunk.js.LICENSE.txt": "/fast-food/static/js/2.7e8e1786.chunk.js.LICENSE.txt",
     "static/media/Carrusel1.5f056dd3.jpg": "/fast-food/static/media/Carrusel1.5f056dd3.jpg",
     "static/media/Carrusel2.d06e6e07.jpg": "/fast-food/static/media/Carrusel2.d06e6e07.jpg",
@@ -30,7 +30,7 @@
     "static/js/runtime-main.11c1ecd7.js",
     "static/css/2.2804f1c8.chunk.css",
     "static/js/2.7e8e1786.chunk.js",
-    "static/css/main.14094dea.chunk.css",
-    "static/js/main.b7ec933a.chunk.js"
+    "static/css/main.e7c97642.chunk.css",
+    "static/js/main.8f41675b.chunk.js"
   ]
 }
