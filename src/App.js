@@ -13,7 +13,7 @@ function App() {
   return (
     <div className="rootPage">
       <div className="app">
-        <Router>
+        <Router basename="/fast-food">
           <Switch>
             <Route path="/" exact component={PrincipalTablets} />
             <Route path="/tablets" component={TabletListing} />
