@@ -17,7 +17,7 @@ function TabletDetaills({ data, addToCart }) {
   };
 
   return (
-    <div className="card" style={{ maxHeight: "80vh" }}>
+    <div className="card" style={{ maxHeight: "150vh" }}>
       <img src={data.imagen} className="card-img-top" alt="Menú Dirigido" />
       <div className="card-body">
         <p className="card-text">{data.entrante}</p>

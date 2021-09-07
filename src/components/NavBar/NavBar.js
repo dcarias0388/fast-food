@@ -78,10 +78,10 @@ const NavBar = ({
     <React.Fragment>
       <Navbar className="navBar" dark expand="lg">
         <div className="container">
-          <NavbarBrand to="/" className="me-0 w-50 textVar">
+          <NavLink className="nav-link me-0 w-50 textVar" to="/">
             Fast Food <img src={icon} className="iconVar" alt="icon" />{" "}
             Restaurant
-          </NavbarBrand>
+          </NavLink>
           <NavbarToggler onClick={toggleNavbar} className="ms-auto" />
           <Collapse isOpen={collapsed} navbar>
             <Nav className="ms-auto" navbar>
