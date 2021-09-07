@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "Lato Regular";
+  src: url("./assets/fonts/Lato-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 300px;
+}
+
+.rootPage {
+  background: orangered;
+  color: #494949;
+  font-family: "Lato-Regular", sans-serif;
+}
+
+.app {
+  width: 90%;
+  margin: auto;
+  background: white;
+  position: relative;
+}
+
+@media screen and (max-width: 1080px) {
+  .app {
+    width: 100%;
+  }
+}

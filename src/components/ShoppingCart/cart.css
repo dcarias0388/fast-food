@@ -1,0 +1,82 @@
+.Contenedor {
+  display: grid;
+  grid-template-columns: repeat(2, 50%);
+  width: 30%;
+  background-color: white;
+  height: auto;
+  float: right;
+  border: 1px solid gray;
+}
+
+.imagen {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.img-cart {
+  width: 50%;
+  height: 50%;
+}
+
+.tabName {
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+.tabQty,
+.tabTotal {
+  margin-bottom: 5px;
+}
+
+span {
+  font-weight: normal;
+}
+
+.botonElim {
+  float: right;
+  margin: 3px 20px 5px 0;
+  background: none;
+  border: none;
+}
+
+.lineaizq,
+.lineader {
+  display: flex;
+  margin-top: 20px;
+  border-top: 1px solid black;
+  height: 2px;
+  width: 90%;
+  padding: 0;
+}
+
+.lineaizq {
+  margin-left: auto;
+}
+
+.lineader {
+  margin-right: auto;
+}
+
+.total {
+  text-align: end;
+  text-transform: uppercase;
+  margin-top: 20px;
+}
+
+.totalPrice {
+  margin-top: 20px;
+  margin-left: 10px;
+  display: inline-block;
+}
+
+.botonPage {
+  float: right;
+  margin: 10px 20px 5px 0;
+}
+
+@media screen and (max-width: 1080px) {
+  .Contenedor {
+    width: 100%;
+  }
+}

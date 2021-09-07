@@ -1,0 +1,70 @@
+@font-face {
+  font-family: "Lato-SemiboldItalic";
+  src: url("./../../assets/fonts/Lato-SemiboldItalic.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400px;
+}
+
+@font-face {
+  font-family: "RobotoSlab Regular";
+  src: url("./../../assets/fonts/RobotoSlab-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400px;
+}
+
+.headingContact {
+  font-family: "Lato-SemiboldItalic", sans-serif;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+
+.main {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  font-family: "RobotoSlab Regular", sans-serif;
+}
+
+.input-names {
+  display: flex;
+  justify-content: space-between;
+}
+
+.input-datos {
+  width: 270px !important;
+}
+
+.enviar-msg {
+  margin-top: 1rem;
+  width: 100%;
+  margin-bottom: 7rem;
+}
+
+.section-info {
+  text-align: center;
+}
+
+.text-direction {
+  margin: 0.2rem;
+}
+
+.map-imagen {
+  object-fit: cover;
+  height: 40vh;
+  width: 90%;
+  margin-top: 1.5rem;
+  margin-left: 1rem;
+}
+
+@media screen and (max-width: 1080px) {
+  .main {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .input-datos {
+    width: 190px !important;
+  }
+
+  .enviar-msg {
+    margin-bottom: 3rem;
+  }
+}

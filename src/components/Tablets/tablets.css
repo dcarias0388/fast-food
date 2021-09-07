@@ -1,0 +1,168 @@
+@font-face {
+  font-family: "Roboto Condensed";
+  src: url("./../../assets/fonts/roboto-condensed.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "RobotoSlab Regular";
+  src: url("./../../assets/fonts/RobotoSlab-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400px;
+}
+
+@font-face {
+  font-family: "Lato SemiboldItalic";
+  src: url("./../../assets/fonts/Lato-SemiboldItalic.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400px;
+}
+
+@font-face {
+  font-family: "Lobster-Regular";
+  src: url("./../../assets/fonts/Lobster-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "GreatVibes-Regular";
+  src: url("./../../assets/fonts/GreatVibes-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Turbinado pro";
+  src: url("./../../assets/fonts/Turbinado Pro.otf") format("truetype");
+  font-style: normal;
+  font-weight: 300;
+}
+
+.Precio {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  font-size: 18px;
+  font-weight: bolder;
+  text-align: end;
+}
+
+.sugerencia {
+  display: flex;
+  justify-content: center;
+  line-height: 1.6;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.section-heading {
+  color: orangered;
+  margin-top: 2rem;
+  margin-bottom: 0;
+  display: flex;
+  white-space: nowrap;
+  text-transform: capitalize;
+  font-family: "Lobster-Regular", sans-serif;
+  font-size: 3.8em;
+}
+
+em {
+  font-size: 1.3em;
+  color: black;
+  font-family: "Turbinado pro", sans-serif;
+  margin-left: -6rem;
+  margin-top: 1.5rem;
+}
+
+.aos-animate {
+  opacity: 1;
+  transform: translateZ(0) scale(1);
+}
+
+.rowShow {
+  display: flex;
+  justify-content: center;
+  box-sizing: border-box;
+}
+
+.rowPrincipal {
+  width: 80%;
+}
+
+.card-img-top {
+  object-fit: cover;
+  height: 20vh;
+  width: 100%;
+}
+
+.Quantity {
+  width: 20%;
+  border: none;
+  text-align: center;
+  font-weight: bolder;
+  font-size: 20px;
+  color: rgb(78, 76, 76);
+}
+
+.card-text {
+  margin-bottom: 2px;
+  font-family: "GreatVibes-Regular", sans-serif;
+  font-size: 25px;
+}
+
+.btn {
+  font-weight: bolder !important;
+}
+
+.platprinc {
+  font-weight: bolder;
+}
+
+.listing {
+  position: relative;
+}
+
+.tittle-menu {
+  text-align: center;
+  font-family: "GreatVibes-Regular", sans-serif;
+}
+
+.divAcordion {
+  padding: 1rem;
+  margin: 1rem 4rem;
+}
+
+.titulo-search {
+  font-family: "Roboto Condensed", sans-serif;
+  margin: 40px;
+}
+
+.subtitulo-search {
+  font-family: "RobotoSlab Regular", sans-serif;
+  font-size: 18px;
+  margin-left: 20px;
+}
+
+.accordion-button {
+  font-family: "GreatVibes-Regular", sans-serif;
+  font-size: 2rem !important;
+}
+
+.btn-grouper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+@media screen and (max-width: 1080px) {
+  .section-heading {
+    font-size: 2.5rem;
+  }
+
+  .divAcordion {
+    padding: 0;
+    margin: 1rem 0;
+  }
+}

@@ -1,0 +1,79 @@
+@font-face {
+  font-family: "Turbinado pro";
+  src: url("./../../assets/fonts/Turbinado Pro.otf") format("truetype");
+  font-style: normal;
+  font-weight: 300;
+}
+
+.navBar {
+  background: #0f1111;
+  font-size: 1.2rem;
+  font-family: inherit;
+  line-height: 1rem;
+}
+
+.textVar {
+  font-family: "Turbinado pro", sans-serif;
+  font-size: 3rem !important;
+  margin-top: 0.4rem;
+  padding-bottom: 0 !important;
+}
+
+.iconVar {
+  width: 5%;
+  height: 5%;
+  margin-left: 0.2rem;
+  margin-right: 0.2rem;
+  margin-bottom: 0.6rem;
+}
+
+.Cart {
+  position: relative;
+  background: transparent;
+  border: none;
+}
+
+.cart-amount {
+  position: absolute;
+  top: 0;
+  left: 55%;
+  background: red;
+  width: 15px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  padding: 2px;
+  font-size: 15px;
+}
+
+.cart-amount span {
+  transform: translateY(-2px);
+}
+
+.cart-amount.hide {
+  opacity: 0;
+}
+
+.Colapse {
+  position: absolute;
+  z-index: 999;
+  right: 0;
+  left: 0;
+}
+
+.Section {
+  position: relative;
+}
+
+@media screen and (max-width: 1080px) {
+  .textVar {
+    font-size: 2rem !important;
+  }
+
+  .iconVar {
+    width: 10%;
+    height: 10%;
+  }
+}

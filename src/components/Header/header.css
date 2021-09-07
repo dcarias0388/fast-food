@@ -1,0 +1,16 @@
+.Header {
+  width: 100%;
+  max-height: 50%;
+  font-family: Arial, Helvetica, sans-serif !important;
+  font-size: 18px;
+  border-color: firebrick;
+}
+
+.imgCarrusel {
+  max-height: 550px !important;
+}
+
+.Carrusel {
+  position: relative;
+  z-index: 1;
+}

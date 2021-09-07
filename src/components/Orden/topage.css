@@ -1,0 +1,204 @@
+.form-header {
+  font-family: "Lucida Grande", sans-serif;
+  line-height: 1.618em;
+  font-size: 1.714em;
+  font-weight: 700;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.formulario {
+  margin: 2rem 4rem;
+}
+
+.form-p {
+  line-height: 1.5em;
+  font-size: 1.071em;
+  font-style: normal;
+  text-align: center;
+}
+
+.form-required {
+  margin-left: 3px;
+  color: red;
+  font-weight: bolder;
+}
+.form-name,
+.form-movil {
+  display: flex;
+}
+
+.input-name,
+.input-lastname,
+.input-email {
+  width: 40% !important;
+}
+
+.input-zona {
+  width: 7% !important;
+  margin-right: 10px !important;
+}
+
+.input-movil {
+  width: 25% !important;
+  margin-left: 10px !important;
+}
+
+.input-lastname {
+  margin-left: 10px;
+}
+
+.linea {
+  display: flex;
+  margin: 40px 0;
+  border-top: 1px solid black;
+  height: 2px;
+  padding: 0;
+}
+
+.botonElimOrden {
+  background: none;
+  border: none;
+}
+
+.form-total {
+  display: block;
+  margin: 10px 0;
+}
+
+.total-text {
+  font-weight: bolder;
+  margin-left: 85%;
+  font-size: 18px;
+}
+
+.total-price {
+  float: right;
+  font-weight: bolder;
+  font-size: 18px;
+}
+
+.calendar {
+  display: flex;
+  justify-content: flex-start;
+  margin-top: 10px;
+}
+
+.group-calendar {
+  display: flex;
+  flex-wrap: wrap;
+  width: 20%;
+}
+
+.input-calendar {
+  width: 80% !important;
+}
+
+.group-hour {
+  display: flex;
+  width: 30%;
+  height: 10%;
+  flex-wrap: wrap;
+}
+
+.selectHour {
+  width: 27% !important;
+  margin-left: 10px;
+}
+
+.imgCalendar {
+  font-size: 25px;
+  margin-left: 10px;
+}
+
+.text-positH {
+  margin-left: 0.6rem;
+}
+
+.text-positM {
+  margin-left: 4.7rem;
+}
+
+.selector {
+  margin-top: 45px;
+}
+
+.colapse {
+  margin: 30px 0;
+}
+
+.btnAceptar {
+  margin: 20px 30px 40px 400px;
+  width: 100px;
+  height: 40px;
+}
+
+.group-check {
+  display: flex;
+  align-items: stretch;
+}
+
+.checkPagar {
+  display: flex;
+}
+
+.image-qr {
+  width: 100px;
+  height: 100px;
+  margin-left: 50px;
+}
+
+@media screen and (max-width: 1080px) {
+  .formulario {
+    margin: 0.5rem;
+  }
+
+  .input-name,
+  .input-lastname {
+    width: 50% !important;
+  }
+
+  .input-email {
+    width: 62% !important;
+  }
+
+  .input-zona {
+    width: 15% !important;
+    margin-right: 10px !important;
+  }
+
+  .input-movil {
+    width: 40% !important;
+    margin-left: 10px !important;
+  }
+
+  .calendar {
+    flex-wrap: wrap;
+  }
+
+  .group-calendar {
+    width: 80%;
+    margin-left: 0.6rem;
+  }
+
+  .input-calendar {
+    width: 85% !important;
+  }
+
+  .group-hour {
+    width: 80%;
+    height: 10%;
+    flex-wrap: wrap;
+  }
+
+  .selectHour {
+    width: 27% !important;
+    margin-left: 10px;
+  }
+
+  .btnAceptar {
+    margin: 20px 30px 40px 100px;
+    width: 180px;
+    height: 40px;
+  }
+}
