@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Web-fast-food/static/css/main.5cc9dc3e.chunk.css",
+    "main.js": "/Web-fast-food/static/js/main.40fd9e3a.chunk.js",
+    "main.js.map": "/Web-fast-food/static/js/main.40fd9e3a.chunk.js.map",
+    "runtime-main.js": "/Web-fast-food/static/js/runtime-main.121d4999.js",
+    "runtime-main.js.map": "/Web-fast-food/static/js/runtime-main.121d4999.js.map",
+    "static/css/2.2804f1c8.chunk.css": "/Web-fast-food/static/css/2.2804f1c8.chunk.css",
+    "static/js/2.d300104c.chunk.js": "/Web-fast-food/static/js/2.d300104c.chunk.js",
+    "static/js/2.d300104c.chunk.js.map": "/Web-fast-food/static/js/2.d300104c.chunk.js.map",
+    "index.html": "/Web-fast-food/index.html",
+    "static/css/2.2804f1c8.chunk.css.map": "/Web-fast-food/static/css/2.2804f1c8.chunk.css.map",
+    "static/css/main.5cc9dc3e.chunk.css.map": "/Web-fast-food/static/css/main.5cc9dc3e.chunk.css.map",
+    "static/js/2.d300104c.chunk.js.LICENSE.txt": "/Web-fast-food/static/js/2.d300104c.chunk.js.LICENSE.txt",
+    "static/media/Carrusel1.5f056dd3.jpg": "/Web-fast-food/static/media/Carrusel1.5f056dd3.jpg",
+    "static/media/Carrusel2.d06e6e07.jpg": "/Web-fast-food/static/media/Carrusel2.d06e6e07.jpg",
+    "static/media/Carrusel3.d22326b4.jpg": "/Web-fast-food/static/media/Carrusel3.d22326b4.jpg",
+    "static/media/Carrusel4.7fc857b5.jpg": "/Web-fast-food/static/media/Carrusel4.7fc857b5.jpg",
+    "static/media/Carrusel5.a05d5381.jpg": "/Web-fast-food/static/media/Carrusel5.a05d5381.jpg",
+    "static/media/tablets.css": "/Web-fast-food/static/media/roboto-condensed.9a14d7fd.ttf",
+    "static/media/App.css": "/Web-fast-food/static/media/Lato-Regular.80c07943.ttf",
+    "static/media/contact.css": "/Web-fast-food/static/media/RobotoSlab-Regular.14803206.ttf",
+    "static/media/footer.css": "/Web-fast-food/static/media/Lobster-Regular.9535d77e.ttf",
+    "static/media/Mapa.4402b064.png": "/Web-fast-food/static/media/Mapa.4402b064.png",
+    "static/media/navBar.css": "/Web-fast-food/static/media/Turbinado Pro.53d7966c.otf",
+    "static/media/icon.0d4acf1e.png": "/Web-fast-food/static/media/icon.0d4acf1e.png",
+    "static/media/qr-code.1c969dc6.png": "/Web-fast-food/static/media/qr-code.1c969dc6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.121d4999.js",
+    "static/css/2.2804f1c8.chunk.css",
+    "static/js/2.d300104c.chunk.js",
+    "static/css/main.5cc9dc3e.chunk.css",
+    "static/js/main.40fd9e3a.chunk.js"
+  ]
+}

@@ -1,0 +1,261 @@
+[
+  {
+    "id": 1,
+    "tablet": "MD - Pescados y Mariscos",
+    "entrante": "Coctel de Camarones",
+    "principal": "Langosta enchilada",
+    "postre": "Flan",
+    "liquido": "Jugo de Frutas Naturales",
+    "precio": 500,
+    "imagen": "./../../images/tablets/MD1.jpg",
+    "sugerencia": false
+  },
+  {
+    "id": 2,
+    "tablet": "MD - Pescados y Mariscos",
+    "entrante": "Ensalada Fria",
+    "principal": "Pescado frito",
+    "postre": "Torta tres leches",
+    "liquido": "Copa Vino",
+    "precio": 300,
+    "imagen": "./../../images/tablets/MD2.jpg",
+    "sugerencia": false
+  },
+  {
+    "id": 3,
+    "tablet": "SCH - Pescados y Mariscos",
+    "entrante": "Tartaletas rellenas",
+    "principal": "Robalo con chips de papa",
+    "postre": "Flan de coco",
+    "liquido": "Copa Vino",
+    "precio": 520,
+    "imagen": "./../../images/tablets/CH2.jpg",
+    "sugerencia": true
+  },
+
+  {
+    "id": 4,
+    "tablet": "MD - Pescados y Mariscos",
+    "entrante": "Ensalada aguacate y gambas",
+    "principal": "Tacos de pescado",
+    "postre": "Buñuelos en almíbar",
+    "liquido": "Copa Vino",
+    "precio": 480,
+    "imagen": "./../../images/tablets/MD4.jpg",
+    "sugerencia": false
+  },
+
+  {
+    "id": 5,
+    "tablet": "MD - Pescados y Mariscos",
+    "entrante": "Cebiche del Mar",
+    "principal": "Pargo con aceitunas",
+    "postre": "Tocinillo del cielo",
+    "liquido": "Copa Vino",
+    "precio": 300,
+    "imagen": "./../../images/tablets/MD5.jpg",
+    "sugerencia": false
+  },
+
+  {
+    "id": 6,
+    "tablet": "MD - Pescados y Mariscos",
+    "entrante": "Patá de langostinos",
+    "principal": "Lomo de Pescado al limón",
+    "postre": "Cascos de toronja con Queso",
+    "liquido": "Copa Vino",
+    "precio": 300,
+    "imagen": "./../../images/tablets/MD6.jpg",
+    "sugerencia": false
+  },
+
+  {
+    "id": 7,
+    "tablet": "MD - Pescados y Mariscos",
+    "entrante": "Tostones Mar y Tierra",
+    "principal": "Camarones rebosados",
+    "postre": "Casquitos de guayaba",
+    "liquido": "Copa Vino",
+    "precio": 450,
+    "imagen": "./../../images/tablets/MD7.jpg",
+    "sugerencia": false
+  },
+
+  {
+    "id": 8,
+    "tablet": "MD - Pescados y Mariscos",
+    "entrante": "Crepes rellenos",
+    "principal": "Camarones al Curry",
+    "postre": "Dulce de boniatillo cubano",
+    "liquido": "Copa Vino",
+    "precio": 450,
+    "imagen": "./../../images/tablets/MD8.jpg",
+    "sugerencia": false
+  },
+
+  {
+    "id": 9,
+    "tablet": "MD - Pescados y Mariscos",
+    "entrante": "Pincho de aguacate y salmón",
+    "principal": "Camarones al Ajillo",
+    "postre": "Mousse de limón",
+    "liquido": "Copa Vino",
+    "precio": 450,
+    "imagen": "./../../images/tablets/MD9.jpg",
+    "sugerencia": false
+  },
+
+  {
+    "id": 10,
+    "tablet": "MD - Carne",
+    "entrante": "Tostones rellenos",
+    "principal": "Bistec Cerdo Encebollado",
+    "postre": "Casquitos de guayaba",
+    "liquido": "Copa Vino",
+    "precio": 540,
+    "imagen": "./../../images/tablets/MD10.jpg",
+    "sugerencia": false
+  },
+
+  {
+    "id": 11,
+    "tablet": "MD - Carne",
+    "entrante": "Buñuelos de espinacas",
+    "principal": "Cerdo en salsa agridulce",
+    "postre": "Cheesecake",
+    "liquido": "Copa Vino",
+    "precio": 630,
+    "imagen": "./../../images/tablets/MD11.jpg",
+    "sugerencia": false
+  },
+
+  {
+    "id": 12,
+    "tablet": "SCH - Carne",
+    "entrante": "Tostones rellenos",
+    "principal": "Cordero al Chilindrón",
+    "postre": "Tarta de frambuesa",
+    "liquido": "Copa Vino",
+    "precio": 450,
+    "imagen": "./../../images/tablets/CH3.jpg",
+    "sugerencia": true
+  },
+
+  {
+    "id": 13,
+    "tablet": "MD - Carne",
+    "entrante": "Canapés de suflé de queso",
+    "principal": "Filete de Res al Carbón",
+    "postre": "Tarta de la abuela",
+    "liquido": "Copa Vino",
+    "precio": 600,
+    "imagen": "./../../images/tablets/MD13.jpg",
+    "sugerencia": false
+  },
+
+  {
+    "id": 14,
+    "tablet": "MD - Aves",
+    "entrante": "Papas aliñadas",
+    "principal": "Pollo Marinado al Carbón",
+    "postre": "Bizcocho con helado",
+    "liquido": "Copa Vino",
+    "precio": 450,
+    "imagen": "./../../images/tablets/MD14.jpg",
+    "sugerencia": false
+  },
+
+  {
+    "id": 15,
+    "tablet": "MD - Aves",
+    "entrante": "Tostadas plátano y miel",
+    "principal": "Pollo Cordon Blue",
+    "postre": "Mousse de chocolate negro",
+    "liquido": "Copa Vino",
+    "precio": 450,
+    "imagen": "./../../images/tablets/MD15.png",
+    "sugerencia": false
+  },
+
+  {
+    "id": 16,
+    "tablet": "MD - Aves",
+    "entrante": "Canapé de tomates con queso",
+    "principal": "Filete de Pollo a la plancha",
+    "postre": "Pudding de chocolate suizo",
+    "liquido": "Copa Vino",
+    "precio": 450,
+    "imagen": "./../../images/tablets/MD16.jpg",
+    "sugerencia": false
+  },
+
+  {
+    "id": 17,
+    "tablet": "MD - Pastas",
+    "entrante": "Ensalada de aguacate y mozzarella",
+    "principal": "Espaguetis a la carbonara",
+    "postre": "Natilla caramelizada",
+    "liquido": "Copa Vino",
+    "precio": 450,
+    "imagen": "./../../images/tablets/MD17.jpg",
+    "sugerencia": false
+  },
+
+  {
+    "id": 18,
+    "tablet": "MD - Pastas",
+    "entrante": "Quesadilla de chorizo criollo con aguacate",
+    "principal": "Rabiolis de carne",
+    "postre": "Casquitos de guayaba",
+    "liquido": "Copa Vino",
+    "precio": 500,
+    "imagen": "./../../images/tablets/MD18.jpg",
+    "sugerencia": false
+  },
+
+  {
+    "id": 19,
+    "tablet": "MD - Pastas",
+    "entrante": "Paté de berenjenas",
+    "principal": "Espagueti a la Bolognesa agridulce",
+    "postre": "Tarta de manzana y vainilla",
+    "liquido": "Copa Vino",
+    "precio": 500,
+    "imagen": "./../../images/tablets/MD19.jpg",
+    "sugerencia": false
+  },
+
+  {
+    "id": 20,
+    "tablet": "SCH - Pescados y Mariscos",
+    "entrante": "Ensaladilla con salón ahumado",
+    "principal": "Langosta al ajillo",
+    "postre": "Helado con flan",
+    "liquido": "Copa Vino",
+    "precio": 650,
+    "imagen": "./../../images/tablets/CH1.jpg",
+    "sugerencia": true
+  },
+  {
+    "id": 21,
+    "tablet": "MD - Carne",
+    "entrante": "Caldo mixto",
+    "principal": "Ropa Vieja a la vinagreta",
+    "postre": "Cuña de chocolate",
+    "liquido": "Copa Vino",
+    "precio": 750,
+    "imagen": "./../../images/tablets/MD3.jpg",
+    "sugerencia": false
+  },
+  {
+    "id": 22,
+    "tablet": "MD - Carne",
+    "entrante": "Ajiaco picante",
+    "principal": "Pimientos rellenos",
+    "postre": "Pae",
+    "liquido": "Copa Vino",
+    "precio": 500,
+    "imagen": "./../../images/tablets/MD12.jpg",
+    "sugerencia": false
+  }
+]
