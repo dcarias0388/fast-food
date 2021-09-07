@@ -18,6 +18,7 @@
   font-size: 3rem !important;
   margin-top: 0.4rem;
   padding-bottom: 0 !important;
+  margin-left: 0;
 }
 
 .iconVar {
@@ -71,6 +72,7 @@
 @media screen and (max-width: 1080px) {
   .textVar {
     font-size: 2rem !important;
+    width: 70%;
   }
 
   .iconVar {

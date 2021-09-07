@@ -2,14 +2,7 @@ import React, { useState } from "react";
 import { connect } from "react-redux";
 import { NavLink } from "react-router-dom";
 import "./navBar.css";
-import {
-  Collapse,
-  Navbar,
-  NavbarToggler,
-  NavbarBrand,
-  Nav,
-  NavItem,
-} from "reactstrap";
+import { Collapse, Navbar, NavbarToggler, Nav, NavItem } from "reactstrap";
 import { MdAddShoppingCart } from "react-icons/md";
 import { openCollapse } from "../../redux/actions/cartAction";
 import { updateSearch, resultsSearch } from "../../redux/actions/tabletAction";
@@ -78,7 +71,7 @@ const NavBar = ({
     <React.Fragment>
       <Navbar className="navBar" dark expand="lg">
         <div className="container">
-          <NavLink className="nav-link me-0 w-50 textVar" to="/">
+          <NavLink className="nav-link textVar" to="/">
             Fast Food <img src={icon} className="iconVar" alt="icon" />{" "}
             Restaurant
           </NavLink>
