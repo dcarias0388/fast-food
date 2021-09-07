@@ -7,7 +7,7 @@
     "postre": "Flan",
     "liquido": "Jugo de Frutas Naturales",
     "precio": 500,
-    "imagen": "./../../images/tablets/MD1.jpg",
+    "imagen": "./images/tablets/MD1",
     "sugerencia": false
   },
   {
@@ -18,7 +18,7 @@
     "postre": "Torta tres leches",
     "liquido": "Copa Vino",
     "precio": 300,
-    "imagen": "./../../images/tablets/MD2.jpg",
+    "imagen": "./images/tablets/MD2.jpg",
     "sugerencia": false
   },
   {
@@ -29,7 +29,7 @@
     "postre": "Flan de coco",
     "liquido": "Copa Vino",
     "precio": 520,
-    "imagen": "./../../images/tablets/CH2.jpg",
+    "imagen": "./images/tablets/CH2.jpg",
     "sugerencia": true
   },
 
@@ -41,7 +41,7 @@
     "postre": "Buñuelos en almíbar",
     "liquido": "Copa Vino",
     "precio": 480,
-    "imagen": "./../../images/tablets/MD4.jpg",
+    "imagen": "./images/tablets/MD4.jpg",
     "sugerencia": false
   },
 
@@ -53,7 +53,7 @@
     "postre": "Tocinillo del cielo",
     "liquido": "Copa Vino",
     "precio": 300,
-    "imagen": "./../../images/tablets/MD5.jpg",
+    "imagen": "./images/tablets/MD5.jpg",
     "sugerencia": false
   },
 
@@ -65,7 +65,7 @@
     "postre": "Cascos de toronja con Queso",
     "liquido": "Copa Vino",
     "precio": 300,
-    "imagen": "./../../images/tablets/MD6.jpg",
+    "imagen": "./images/tablets/MD6.jpg",
     "sugerencia": false
   },
 
@@ -77,7 +77,7 @@
     "postre": "Casquitos de guayaba",
     "liquido": "Copa Vino",
     "precio": 450,
-    "imagen": "./../../images/tablets/MD7.jpg",
+    "imagen": "./images/tablets/MD7.jpg",
     "sugerencia": false
   },
 
@@ -89,7 +89,7 @@
     "postre": "Dulce de boniatillo cubano",
     "liquido": "Copa Vino",
     "precio": 450,
-    "imagen": "./../../images/tablets/MD8.jpg",
+    "imagen": "./images/tablets/MD8.jpg",
     "sugerencia": false
   },
 
@@ -101,7 +101,7 @@
     "postre": "Mousse de limón",
     "liquido": "Copa Vino",
     "precio": 450,
-    "imagen": "./../../images/tablets/MD9.jpg",
+    "imagen": "./images/tablets/MD9.jpg",
     "sugerencia": false
   },
 
@@ -113,7 +113,7 @@
     "postre": "Casquitos de guayaba",
     "liquido": "Copa Vino",
     "precio": 540,
-    "imagen": "./../../images/tablets/MD10.jpg",
+    "imagen": "./images/tablets/MD10.jpg",
     "sugerencia": false
   },
 
@@ -125,7 +125,7 @@
     "postre": "Cheesecake",
     "liquido": "Copa Vino",
     "precio": 630,
-    "imagen": "./../../images/tablets/MD11.jpg",
+    "imagen": "./images/tablets/MD11.jpg",
     "sugerencia": false
   },
 
@@ -137,7 +137,7 @@
     "postre": "Tarta de frambuesa",
     "liquido": "Copa Vino",
     "precio": 450,
-    "imagen": "./../../images/tablets/CH3.jpg",
+    "imagen": "./images/tablets/CH3.jpg",
     "sugerencia": true
   },
 
@@ -149,7 +149,7 @@
     "postre": "Tarta de la abuela",
     "liquido": "Copa Vino",
     "precio": 600,
-    "imagen": "./../../images/tablets/MD13.jpg",
+    "imagen": "./images/tablets/MD13.jpg",
     "sugerencia": false
   },
 
@@ -161,7 +161,7 @@
     "postre": "Bizcocho con helado",
     "liquido": "Copa Vino",
     "precio": 450,
-    "imagen": "./../../images/tablets/MD14.jpg",
+    "imagen": "./images/tablets/MD14.jpg",
     "sugerencia": false
   },
 
@@ -173,7 +173,7 @@
     "postre": "Mousse de chocolate negro",
     "liquido": "Copa Vino",
     "precio": 450,
-    "imagen": "./../../images/tablets/MD15.png",
+    "imagen": "./images/tablets/MD15.png",
     "sugerencia": false
   },
 
@@ -185,7 +185,7 @@
     "postre": "Pudding de chocolate suizo",
     "liquido": "Copa Vino",
     "precio": 450,
-    "imagen": "./../../images/tablets/MD16.jpg",
+    "imagen": "./images/tablets/MD16.jpg",
     "sugerencia": false
   },
 
@@ -197,7 +197,7 @@
     "postre": "Natilla caramelizada",
     "liquido": "Copa Vino",
     "precio": 450,
-    "imagen": "./../../images/tablets/MD17.jpg",
+    "imagen": "./images/tablets/MD17.jpg",
     "sugerencia": false
   },
 
@@ -209,7 +209,7 @@
     "postre": "Casquitos de guayaba",
     "liquido": "Copa Vino",
     "precio": 500,
-    "imagen": "./../../images/tablets/MD18.jpg",
+    "imagen": "./images/tablets/MD18.jpg",
     "sugerencia": false
   },
 
@@ -221,7 +221,7 @@
     "postre": "Tarta de manzana y vainilla",
     "liquido": "Copa Vino",
     "precio": 500,
-    "imagen": "./../../images/tablets/MD19.jpg",
+    "imagen": "./images/tablets/MD19.jpg",
     "sugerencia": false
   },
 
@@ -233,7 +233,7 @@
     "postre": "Helado con flan",
     "liquido": "Copa Vino",
     "precio": 650,
-    "imagen": "./../../images/tablets/CH1.jpg",
+    "imagen": "./images/tablets/CH1.jpg",
     "sugerencia": true
   },
   {
@@ -244,7 +244,7 @@
     "postre": "Cuña de chocolate",
     "liquido": "Copa Vino",
     "precio": 750,
-    "imagen": "./../../images/tablets/MD3.jpg",
+    "imagen": "./images/tablets/MD3.jpg",
     "sugerencia": false
   },
   {
@@ -255,7 +255,7 @@
     "postre": "Pae",
     "liquido": "Copa Vino",
     "precio": 500,
-    "imagen": "./../../images/tablets/MD12.jpg",
+    "imagen": "./images/tablets/MD12.jpg",
     "sugerencia": false
   }
 ]
