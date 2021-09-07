@@ -19,6 +19,7 @@ const Footer = () => {
         buttons: false,
         timer: 2000,
       });
+      setEmail("");
     }
   };
 

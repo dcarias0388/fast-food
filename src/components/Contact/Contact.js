@@ -36,7 +36,7 @@ function Contact() {
               </Form.Group>
 
               <Form.Group className="mb-2">
-                <Form.Label>Message</Form.Label>
+                <Form.Label>Mensaje</Form.Label>
                 <Form.Control as="textarea" row={4} />
               </Form.Group>
 
