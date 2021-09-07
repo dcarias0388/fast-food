@@ -78,7 +78,7 @@ const NavBar = ({
     <React.Fragment>
       <Navbar className="navBar" dark expand="lg">
         <div className="container">
-          <NavbarBrand href="/fast-food/" className="me-0 w-50 textVar">
+          <NavbarBrand to="/" className="me-0 w-50 textVar">
             Fast Food <img src={icon} className="iconVar" alt="icon" />{" "}
             Restaurant
           </NavbarBrand>
